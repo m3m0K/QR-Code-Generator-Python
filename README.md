@@ -16,7 +16,7 @@ PyPNG, PNG görüntü dosyalarının saf Python kullanılarak okunmasına ve yaz
 Hello, in this project I tried to make a program that generates the qr code of the desired link. You can share the errors and deficiencies you see with me.
 
 *--Technologies used--*
-- pyqrcode<br>
+- **pyqrcode**
 The pyqrcode module is a QR code generator that is simple to use and written in pure python. The module can automates most of the building process for creating QR codes. Most codes can be created using only two lines of code!
-- pypng
+- **pypng**
 PyPNG allows PNG image files to be read and written using pure Python.
