@@ -6,9 +6,9 @@
 Merhbalar bu projem de istenilen linkin qr kodunu oluşturan bir program yapmaya çalıştım.Gördüğünüz hataları,eksikleri benimle paylaşabilirsiniz.
 
 *--Kullanılan teknolojiler--*
-- pyqrcode
+- **pyqrcode**
 Pyqrcode modülü, kullanımı basit ve saf python ile yazılmış bir QR kod üretecidir. Modül, QR kodları oluşturmak için inşa sürecinin çoğunu otomatik hale getirebilir. Çoğu kod, yalnızca iki satır kod kullanılarak oluşturulabilir!
-- pypng
+- **pypng**
 PyPNG, PNG görüntü dosyalarının saf Python kullanılarak okunmasına ve yazılmasına izin verir.
 
 
